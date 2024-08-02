@@ -94,12 +94,8 @@ Somos un equipo de tres personas dedicadas a la detección de fraudes financiero
 
 ## 📹 Video Explicativo del Proyecto
 
-Para obtener una vista general del proyecto [clic aquí](#).
+Para obtener una vista general del proyecto [clic aquí](https://www.youtube.com/watch?v=xEg6dKS4ly8).
 
 ## 🌐 Análisis de Datos
 
-Para más información del análisis de datos en Power BI, visite este [enlace](#).
-
-## 🗃️ Demo
-
-Explore los datos utilizados en este proyecto para ver cómo implementamos nuestras soluciones de detección de fraudes, haciendo clic [aquí](#).
+Para más información del análisis de datos en Power BI, visite este [enlace](https://drive.google.com/file/d/1fhbGF6QA5LRNl_2TvNbicTaP_vpGZZoO/view).
